@@ -5,7 +5,7 @@ Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using adv
 
 ---
 
-## 🌟 Features
+## 🌟 Features :
 
 | Feature                | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -17,7 +17,7 @@ Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using adv
 
 ---
 
-## 🛠️ How It Works
+## 🛠️ How It Works :
 
 1. **Upload**: Navigate to the "Upload" section and upload a chest X-ray image. 📤
 2. **Processing**: The image is analyzed by our deep learning model. 🧠
@@ -25,7 +25,7 @@ Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using adv
 
 ---
 
-## 📋 Image Requirements
+## 📋 Image Requirements :
 
 | Requirement            | Details                                                                   |
 |------------------------|---------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using adv
 
 ---
 
-## 🧠 About the Model
+## 🧠 About the Model :
 
 - **Architecture**: Convolutional Neural Network (CNN) with multiple layers for feature extraction.
 - **Input Shape**: `(200, 200, 3)` for resized X-ray images.
@@ -44,7 +44,7 @@ Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using adv
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started :
 
 1. Clone the repository:
    ```bash
@@ -64,7 +64,7 @@ Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using adv
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure :
 
 | File/Folder             | Description                                                              |
 |-------------------------|--------------------------------------------------------------------------|
@@ -76,18 +76,18 @@ Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using adv
 
 ---
 
-## 🛡️ Disclaimer
+## 🛡️ Disclaimer :
 
 This application is for educational purposes only and should not be used as a substitute for professional medical advice. Always consult a healthcare professional for medical concerns.
 
 ---
 
-## ❤️ Contributing
+## ❤️ Contributing :
 
 We welcome contributions! Feel free to submit issues or pull requests to improve the project. 🙌
 
 ---
 
-## 🌟 Thank You
+## 🌟 Thank You!
 
 Thank you for using **Pneumocare**! Together, let's make healthcare smarter and more accessible. 🌍✨
