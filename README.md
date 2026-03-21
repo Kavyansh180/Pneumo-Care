@@ -1,7 +1,7 @@
 
 # 🩺 Pneumocare - Pneumonia Detection Web Application
 
-Welcome to **Pneumocare**, a platform dedicated to detecting pneumonia using advanced chest X-ray analysis. This application leverages deep learning to provide accurate and efficient results, helping healthcare professionals in diagnosing pneumonia. 🌟
+Welcome to Pneumocare. We empower healthcare professionals with high-precision, AI-driven chest X-ray analysis. By integrating advanced deep learning into the diagnostic workflow, Pneumocare enhances accuracy and accelerates the detection of pneumonia when every minute counts.
 
 ---
 
