@@ -68,7 +68,3 @@ We welcome contributions! Feel free to submit issues or pull requests to improve
 ## 🌟 Thank You!
 Thank you for using **Pneumocare**! Together, let's make healthcare smarter and more accessible. 🌍✨
 ```
-
-A couple of small notes:
-- I linked to the original repo using the correct URL (`atharva-nagane/Pneumo-Care`) — the README's clone instructions further down still say `your-repo/pneumonia-detection.git`, which was already a placeholder in the original file, so you may want to update that to your fork's actual URL too.
-- Feel free to tweak the wording of your contribution bullets once you're comfortable — but keep it specific and accurate to what's really in `app.py`.
